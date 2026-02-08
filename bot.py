@@ -5,8 +5,8 @@ from flask import Flask
 import threading
 
 # --- [ إعدادات الهوية ] ---
-TOKEN = "حط_التوكن_هنا"
-CHAT_ID = "حط_الايدي_هنا"
+TOKEN = "8394691279:AAHSo6NSEbIdIp2XQx5WsMHf418-t24ilPs"
+CHAT_ID = 7119607904
 ACCESS_CODE = "NBK403"
 
 bot = telebot.TeleBot(TOKEN)
